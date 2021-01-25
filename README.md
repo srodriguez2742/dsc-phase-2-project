@@ -102,10 +102,6 @@ Lastly, number of views for a given home had a higher than expected impact on ho
 
 Other variables to note that, had a surprising impact on home price were bedrooms which had a negative relationship with home price. One would expect that with an increase in bedrooms price would increase, but perhaps this is a topic for further investigation.
 
-![baseline](images/baselinemodelqqplot1.png)
-
-![finalplot](images/finalqqplot1.png)
-
 As can be seen above, we were able to improve the accuracy of our model, but there is still room for improvement as the outliers on the end are still noticably skewed.
 
 ## Conclusion
@@ -115,8 +111,3 @@ Homes R' Us can use our model to compare against there listing prices of homes o
 The analysis provided may not fully solve Homes R' Us business problem as the R^2 value of our model is only .733 which leaves .267 room for improvement and also means when evaluating the accuracy of their listing prices they should look within a 20% range of the predicted price.
 
 In the future, if it were possible to get data for over a 2+ year time period and include price appreciation for the properties sold it this analysis could be done from an investment perspective to say which homes would make a good investment decision. Additionally, if rental level data were available this would be another interesting avenue to investigate as most online marketplaces also offer rental options. Lastly, it would be quite intriguing to be able to see housing data for the past year and how large a fluctuation Covid has impacted home prices during that time.
-
-
-```python
-
-```
